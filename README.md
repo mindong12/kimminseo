@@ -1,3 +1,3 @@
 # kimminseo
 
-this is my first job
+this is my first job!
